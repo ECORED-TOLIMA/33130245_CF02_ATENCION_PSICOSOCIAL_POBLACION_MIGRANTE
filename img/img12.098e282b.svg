@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="62.504" height="62.504" viewBox="0 0 62.504 62.504">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_409190" data-name="Rectángulo 409190" width="36.738" height="32" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1072167" data-name="Grupo 1072167" transform="translate(-279.484 -1198.614)">
+    <g id="Grupo_1072053" data-name="Grupo 1072053" transform="translate(279.484 1198.614)">
+      <circle id="Elipse_4742" data-name="Elipse 4742" cx="31.252" cy="31.252" r="31.252" transform="translate(0)" fill="#5001aa"/>
+    </g>
+    <g id="Grupo_1119444" data-name="Grupo 1119444" transform="translate(292.484 1213.615)">
+      <g id="Grupo_1119443" data-name="Grupo 1119443" clip-path="url(#clip-path)">
+        <path id="Trazado_925020" data-name="Trazado 925020" d="M21.68,187.158A4.19,4.19,0,0,1,22.316,189a11.971,11.971,0,0,1-.123,2.937,1.175,1.175,0,0,1-.981.6c-1.9.175-4.128-.1-6.063-.052a1.449,1.449,0,0,1-.709-.765,16.084,16.084,0,0,1,.005-3,4.381,4.381,0,0,1,.971-2.081c.171-.189,1.122-.811,1-.945L.63,181.526A1.08,1.08,0,0,1,.9,179.478c11.731,2.857,23.385,6.186,35.092,9.2,1.355.7.715,2.372-.782,2.044Z" transform="translate(0 -160.588)" fill="#fff"/>
+        <path id="Trazado_925021" data-name="Trazado 925021" d="M24.631,79.28,18.2,77.565l-.384-4.523c-.212-.3-2.025.249-2.2-1.249a6.306,6.306,0,0,1,.876-4.17c.2-.316.944-1.373,1.291-1.306a6.155,6.155,0,0,0,7.583-.036c1.586.814,2.99,5.094,1.649,6.3-.527.472-.977.316-1.63.359l-.2.2Z" transform="translate(-13.927 -59.306)" fill="#fff"/>
+        <path id="Trazado_925022" data-name="Trazado 925022" d="M43.533.04c4.727-.65,5.184,6.7.5,6.7-4.136,0-4.5-6.15-.5-6.7" transform="translate(-36.435 0)" fill="#fff"/>
+        <path id="Trazado_925023" data-name="Trazado 925023" d="M243.211,139.03l-6.43-1.714-.384-4.523c-.212-.3-2.025.249-2.2-1.249a6.306,6.306,0,0,1,.876-4.17c.2-.316.945-1.373,1.291-1.306a6.155,6.155,0,0,0,7.583-.036c1.586.814,2.99,5.094,1.649,6.3-.527.472-.977.316-1.63.359l-.2.2Z" transform="translate(-209.502 -112.767)" fill="#fff"/>
+        <path id="Trazado_925024" data-name="Trazado 925024" d="M262.113,59.79c4.727-.65,5.184,6.7.5,6.7-4.136,0-4.5-6.15-.5-6.7" transform="translate(-232.009 -53.461)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

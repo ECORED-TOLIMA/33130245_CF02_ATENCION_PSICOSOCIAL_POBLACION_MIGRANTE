@@ -308,8 +308,6 @@ export default {
     {
       referencia:
         'Ministerio de Salud y Protección Social. (2023). Estrategia de acompañamiento psicosocial para población migrante venezolana, población colombiana retornada, comunidades de acogida o receptoras, y lineamientos para su implementación.',
-      link:
-        'https://www.minsalud.gov.co/Anexos_Normatividad_Nuevo/Estrategia_psicosocial_poblacion_migrante_y_lineamientos.pdf ',
     },
     {
       referencia:
@@ -326,8 +324,6 @@ export default {
     {
       referencia:
         'Ministerio de Salud y Protección Social. (s. f.). Programa de atención psicosocial y salud integral a víctimas – PAPSIVI.',
-      link:
-        'https://www.minsalud.gov.co/proteccionsocial/promocion-social/Victimas/paginas/papsivi.aspx',
     },
     {
       referencia:
